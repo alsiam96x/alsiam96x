@@ -2,6 +2,7 @@ import React from "react";
 import Me from "../C-File/Me";
 import AboutMe from "../C-File/AboutMe";
 import Contact from "../C-File/Contact";
+import HealthCondition from "../C-File/HealthCondition";
 
 const Index = () => {
   return (
@@ -11,6 +12,8 @@ const Index = () => {
       <Me />
       {/* About Me Section */}
       <AboutMe />
+      {/* Health Condition Section */}
+      <HealthCondition/>
       {/* Contact Section */}
       <Contact />
     </div>

@@ -93,10 +93,6 @@ END:VCARD
       >
         Download Contact
       </button>
-
-      <p className="text-gray-500 mt-16 relative z-10">
-        © {new Date().getFullYear()} Al Siam
-      </p>
     </section>
   );
 };
