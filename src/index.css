@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.logofont {
+  font-family: "BBH Bogle", sans-serif;
+}
